@@ -1,4 +1,4 @@
 # Javascript_DOM
-A mini projects demonstrating JavaScript DOM properties.
+A mini project demonstrating JavaScript DOM properties.
 
 https://jatinguglani.github.io/Javascript_DOM/
